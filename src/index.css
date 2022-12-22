@@ -1,0 +1,23 @@
+body{
+    background-color: red;
+}
+h5, h1{
+    color: #ccc;
+    
+
+}
+
+#card{
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+img{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    height: 350px;
+}
+
+
+
